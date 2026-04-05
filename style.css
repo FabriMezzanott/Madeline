@@ -1,0 +1,38 @@
+h2{
+    text-align: center;
+}
+body{
+background-image: url("BEST.jpg") ; 
+background-position: center center center center;
+background-size: auto;
+background-repeat: no-repeat;
+}
+.recuadro{
+    background: linear-gradient(rgb(105, 130, 184), rgb(222, 153, 210));
+    background-color: forestgreen;
+    width: 350px;
+    height: 500px;
+    border-radius: 20px;
+    margin-left: 750px;
+    margin-top: 200px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px; /*#7*/
+    align-items: center;
+
+}
+img{
+    width: 350px;
+    height: auto;
+}
+h2{
+  font-family: "Albert Sans", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+ul {
+    line-height: 2;
+    font-family: "Albert Sans", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: large;
+
+}
