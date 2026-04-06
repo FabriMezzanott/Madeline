@@ -2,7 +2,7 @@ h2{
     text-align: center;
 }
 body{
-background-image: url("BEST.jpg") ; 
+background-image: url("fondo.jpg") ; 
 background-position: center center center center;
 background-size: auto;
 background-repeat: no-repeat;
@@ -15,7 +15,7 @@ background-repeat: no-repeat;
     border-radius: 20px;
     margin-left: 750px;
     margin-top: 200px;
-    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px; /*#7*/
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px; /*#23*/
     align-items: center;
 
 }
